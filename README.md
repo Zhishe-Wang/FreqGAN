@@ -1,2 +1,2 @@
 # FreqGAN
-Code publicing soon.
+Codes releasing soon.
