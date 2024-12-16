@@ -23,4 +23,4 @@ If this work is helpful to you, please cite it as:
   pages={1-1},
   doi={10.1109/TCSVT.2024.3460172}}
  ```
-If you have any question, please email to me (wangzs@tyust.edu.cn).
+If you have any question, please email to me (wangzs@tyust.edu.cn or zhuoqunzhang001@163.com).
