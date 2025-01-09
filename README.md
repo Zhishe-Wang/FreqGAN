@@ -15,12 +15,15 @@ Pytorch >=1.6.0
 ## Ciation
 If this work is helpful to you, please cite it as:
 ```
-@ARTICLE{10680110
-  author={Zhishe Wang,Zhuoqun Zhang,Wuqiang Qi,Fengbao Yang,Jiawei Xu},
+@ARTICLE{10680110,
+  author={Wang, Zhishe and Zhang, Zhuoqun and Qi, Wuqiang and Yang, Fengbao and Xu, Jiawei},
   journal={IEEE Transactions on Circuits and Systems for Video Technology}, 
   title={FreqGAN: Infrared and Visible Image Fusion via Unified Frequency Adversarial Learning}, 
   year={2024},
+  volume={},
+  number={},
   pages={1-1},
+  keywords={Image fusion;Generators;Feature extraction;Frequency-domain analysis;Frequency control;Discrete wavelet transforms;Transformers;image fusion;wavelet transformation;hybrid frequency aggregation;generative adversarial network},
   doi={10.1109/TCSVT.2024.3460172}}
  ```
 If you have any question, please email to me (wangzs@tyust.edu.cn or zhuoqunzhang001@163.com).
